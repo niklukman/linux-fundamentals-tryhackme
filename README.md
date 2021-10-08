@@ -37,15 +37,15 @@ Linux fundamentals is part of complete beginner path.
 
 - `wget` - download files from the web via http
 
-...
+```
 wget https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg
-...
+```
 
 #### Transferring files and directories via ssh
 
 - `scp` - secure copy via ssh
 
-...
+```
 scp [source] [destination]
 
 // secure copy from local to remote
@@ -53,4 +53,4 @@ scp hello.txt ubuntu@192.168.1.30:/home/ubuntu/world.txt
 
 // secure copy from remote to local
 scp ubuntu@192.168.1.30:/home/ubuntu/documents.txt notes.txt
-...
+```
