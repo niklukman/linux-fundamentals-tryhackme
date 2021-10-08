@@ -7,13 +7,13 @@ Linux fundamentals is part of complete beginner path.
 ### Commands
 
 - `echo` - display a line of text
-- `whoami`
-- `ls`
-- `cd`
-- `cat`
-- `pwd`
-- `find`
-- `grep`
+- `whoami` - print effective user id
+- `ls` - list directory contents
+- `cd` - change directory
+- `cat` - concatenate files and display on the terminal
+- `pwd` - print working directory
+- `find` - search for files in a directory
+- `grep` - search for patterns in files
 
 ### Shell operators
 
