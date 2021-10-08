@@ -2,7 +2,7 @@
 
 Linux fundamentals is part of complete beginner path.
 
-[Linux Fundamentals Part1](#)
+[Linux Fundamentals Part1](./Part-1)
 
 Commands
 
@@ -22,6 +22,6 @@ Shell operators
 - \> - output redirector. Will rewrite the content of the file.
 - \>\> - output redirector. Will append the output to the end of the content without overwriting it.
 
-[Linux Fundamentals Part2](#)
+[Linux Fundamentals Part2](./Part-2)
 
-[Linux Fundamentals Part3](#)
+[Linux Fundamentals Part3](./Part-3)
